@@ -1,0 +1,26 @@
+{
+  "full540_records": 540,
+  "focused374_records": 374,
+  "focused_A": 175,
+  "focused_B": 199,
+  "omitted_C_or_other": 166,
+  "full540_TC": 22378,
+  "focused374_TC": 13249,
+  "pearson_annual": 0.9660041085014335,
+  "top10_shared": 3,
+  "top20_shared": 11,
+  "record_selection": "approved by study authors on 2026-11-02; publication of record-level register not authorized",
+  "network_gui": {
+    "N": 352,
+    "E": 1641,
+    "Q": 0.4331,
+    "weighted_S": 0.7563
+  },
+  "graphml_export_edges": 1612,
+  "network_match": {
+    "common_labels": 301,
+    "Jaccard": 0.7016317016317016,
+    "ARI": 0.3109539090211276,
+    "NMI_arithmetic": 0.5222401333366182
+  }
+}

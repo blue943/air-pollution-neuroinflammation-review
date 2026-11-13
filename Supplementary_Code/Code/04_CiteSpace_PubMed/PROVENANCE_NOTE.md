@@ -1,0 +1,3 @@
+# PubMed CiteSpace-only analysis — confirmed 2015–2025
+
+The final Figures 7B/C and Supplementary Figures S2/S3, as well as both newly supplied native CiteSpace figures, display `TimeSpan: 2015–2025`. N=279, GUI E=550, Q=0.6225, weighted S=0.863, nine timeline clusters. CiteSpace only; not VOSviewer. The final GraphML has N279/E546 (not a contradiction with E550 GUI), and the earlier GraphML N275/E538. Keywords-only, sanitized GraphML copies are provided here and a read-only check reproduces node/edge/BBB-mapping counts. Detailed provenance and the distinction from historical contradictory configuration snapshots are documented in `EVIDENCE_2015_2025_CN_EN.md`. The reported final GUI Q/S were not independently recomputed.

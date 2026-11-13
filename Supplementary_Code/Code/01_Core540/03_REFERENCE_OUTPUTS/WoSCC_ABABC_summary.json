@@ -1,0 +1,126 @@
+{
+  "scope": "WoSCC only, 2015-2025 publications, October 2026 paired search exports",
+  "counts": {
+    "ABC": 318,
+    "AB": 519,
+    "AB-only": 201
+  },
+  "DE_present": {
+    "ABC": 306,
+    "AB": 487,
+    "AB-only": 181
+  },
+  "input_SHA256": {
+    "AB": "6c736e555b34d29d2dfb76111a958fc60fccb621ce32c89786a24491ae4044e0",
+    "ABC": "c3f33835ed825eb6c516334cb843831741cf0321f7bceb476c269614c2ba26e6"
+  },
+  "top20_all": {
+    "shared": 18,
+    "union": 22,
+    "jaccard": 0.8182,
+    "intersection": [
+      "air pollution",
+      "alzheimer s disease",
+      "astrocytes",
+      "blood brain barrier",
+      "brain",
+      "dementia",
+      "hippocampus",
+      "inflammation",
+      "microglia",
+      "nanoparticles",
+      "neurodegeneration",
+      "neuroinflammation",
+      "neurotoxicity",
+      "oxidative stress",
+      "ozone",
+      "parkinson s disease",
+      "particulate matter",
+      "pm2 5"
+    ],
+    "ABC_only_top20": [
+      "autism spectrum disorder",
+      "neurodegenerative diseases"
+    ],
+    "AB_only_top20": [
+      "depression",
+      "fine particulate matter"
+    ]
+  },
+  "top20_excluding_C_term_matches": {
+    "shared": 17,
+    "union": 23,
+    "jaccard": 0.7391,
+    "intersection": [
+      "air pollution",
+      "alzheimer s disease",
+      "astrocytes",
+      "blood brain barrier",
+      "brain",
+      "dementia",
+      "hippocampus",
+      "inflammation",
+      "microglia",
+      "nanoparticles",
+      "neurodegeneration",
+      "neuroinflammation",
+      "neurotoxicity",
+      "ozone",
+      "parkinson s disease",
+      "particulate matter",
+      "pm2 5"
+    ],
+    "ABC_only_top20": [
+      "autism spectrum disorder",
+      "diesel exhaust particles",
+      "neurodegenerative diseases"
+    ],
+    "AB_only_top20": [
+      "depression",
+      "diesel exhaust",
+      "fine particulate matter"
+    ]
+  },
+  "tie_inclusive_all": {
+    "ABC_cutoff": 8,
+    "AB_cutoff": 14,
+    "ABC_terms": 23,
+    "AB_terms": 20,
+    "shared": 19,
+    "union": 24,
+    "jaccard": 0.7917
+  },
+  "tie_inclusive_excluding_C": {
+    "ABC_cutoff": 8,
+    "AB_cutoff": 13,
+    "ABC_terms": 22,
+    "AB_terms": 21,
+    "shared": 19,
+    "union": 24,
+    "jaccard": 0.7917
+  },
+  "warnings": [
+    "Keyword outcomes are descriptive and search-conditioned, not independent causal proof.",
+    "AB-only necessarily lacks exact C-search matches in WoSCC topic search; do not interpret this as biological absence.",
+    "DE is author keywords only; ID/Keywords Plus not mixed with DE.",
+    "One database (WoSCC), not a combined WoSCC/Scopus comparison.",
+    "Keyword normalization limited to case, punctuation and spacing; not synonym collapsing.",
+    "No AB-only records are automatically adjudicated as eligible or ineligible."
+  ],
+  "sample": {
+    "seed": "20261026_KeywordMini_V1",
+    "n": 30,
+    "allocation": {
+      "2015-17": 5,
+      "2018-20": 6,
+      "2021-23": 11,
+      "2024-25": 8
+    },
+    "period_sizes": {
+      "2015-17": 33,
+      "2018-20": 40,
+      "2021-23": 77,
+      "2024-25": 51
+    }
+  }
+}

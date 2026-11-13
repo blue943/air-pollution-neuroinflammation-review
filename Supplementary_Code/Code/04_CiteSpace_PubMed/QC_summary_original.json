@@ -1,0 +1,34 @@
+{
+  "old_graphml_nodes": 275,
+  "old_graphml_edges": 538,
+  "new_graphml_nodes": 279,
+  "new_graphml_edges": 546,
+  "old_gui_edges": 542,
+  "new_gui_edges": 550,
+  "common_labels": 273,
+  "new_only_labels": [
+    "heat stress",
+    "hydrogen peroxide",
+    "inflammatory pathways",
+    "interleukin 13",
+    "secondary organic aerosols",
+    "spatial memory and learning"
+  ],
+  "old_only_labels": [
+    "blood brain barrier",
+    "blood–brain barrier"
+  ],
+  "alias_rows": 12,
+  "real_alias_changes": 10,
+  "alias_signature_exact_match": true,
+  "alias_config_enabled": true,
+  "old_normalized_edges_subset_new": true,
+  "old_normalized_unique_edges": 533,
+  "additional_new_normalized_edges": 13,
+  "old_bbb_freqs": [
+    9,
+    5,
+    3
+  ],
+  "new_bbb_freq": 17
+}

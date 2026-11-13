@@ -1,0 +1,353 @@
+Label,Freq,ClusterID,Degree,Centrality,Year
+air-pollution,35,6,57,0.18,2015
+activation,26,3,56,0.14,2015
+autism spectrum disorder,19,2,50,0.15,2017
+particles,23,5,50,0.12,2015
+neuroinflammation,51,1,48,0.11,2015
+brain,49,2,47,0.10,2015
+diesel exhaust particles,30,0,45,0.09,2015
+blood-brain barrier,53,0,44,0.14,2015
+risk,18,6,40,0.08,2019
+alzheimers disease,96,6,39,0.07,2015
+particulate matter,123,2,39,0.06,2015
+expression,26,4,39,0.10,2017
+association,12,4,39,0.09,2016
+disease,22,1,37,0.07,2015
+children,16,5,35,0.05,2016
+inflammation,34,3,35,0.06,2016
+alpha-synuclein,10,0,34,0.05,2015
+parkinsons disease,33,0,34,0.06,2015
+air pollution,164,2,34,0.05,2015
+ultrafine particles,20,1,33,0.07,2016
+air pollution exposure,18,2,33,0.04,2015
+pm2.5,19,3,32,0.07,2020
+ambient air pollution,15,1,32,0.05,2016
+central nervous system,12,0,31,0.04,2016
+health,13,2,29,0.03,2020
+mitochondrial dysfunction,17,1,29,0.06,2020
+exposure,55,1,28,0.02,2016
+microglia,22,3,28,0.03,2018
+polycyclic aromatic hydrocarbons,15,9,26,0.05,2016
+oxidative stress,176,1,26,0.03,2015
+long term exposure,8,4,24,0.04,2017
+amyloid-beta,5,0,24,0.03,2016
+neurotoxicity,16,8,23,0.03,2016
+diesel exhaust,9,5,22,0.01,2016
+age,6,2,22,0.02,2016
+fine particulate matter,19,4,22,0.03,2017
+black carbon,6,4,21,0.02,2016
+prenatal exposure,10,2,21,0.02,2017
+pm2.5 exposure,9,3,21,0.03,2021
+cognitive function,8,4,21,0.03,2017
+brain inflammation,4,0,19,0.02,2015
+toxicity,7,5,19,0.02,2019
+ambient pm2.5,6,3,19,0.02,2018
+multiple-sclerosis,5,0,19,0.01,2022
+anxiety,8,1,18,0.04,2020
+apoptosis,4,8,18,0.01,2016
+cells,10,1,18,0.02,2015
+air pollutants,6,7,18,0.03,2020
+behavior,5,2,17,0.01,2019
+astrocytes,6,8,17,0.02,2016
+autism,4,3,17,0.01,2022
+neurodevelopmental disorders,7,2,17,0.01,2017
+nlrp3 inflammasome,7,3,17,0.02,2020
+depression,4,4,16,0.01,2022
+in-vivo,5,2,15,0.01,2017
+biomarkers,3,3,14,0.01,2018
+autism spectrum disorders,3,0,14,0.01,2017
+neurodegenerative diseases,8,3,14,0.01,2023
+dysfunction,6,5,14,0.01,2016
+ambient,3,5,14,0.01,2021
+impact,7,5,14,0.01,2021
+systemic inflammation,5,2,14,0.01,2015
+central-nervous-system,3,0,14,0.01,2016
+endothelial-cells,4,0,14,0.01,2015
+mechanisms,7,7,13,0.01,2021
+amyloid precursor protein,3,4,13,0.01,2017
+mouse model,7,2,13,0.00,2018
+pollutants,4,5,13,0.01,2021
+cerebrospinal fluid,2,0,13,0.01,2016
+cellular prion protein,2,0,13,0.01,2015
+multiple sclerosis,7,4,13,0.02,2020
+mortality,7,4,13,0.01,2017
+aged mice,3,5,12,0.00,2015
+hospital admissions,5,4,12,0.00,2022
+barrier,3,1,12,0.01,2021
+sulfur dioxide,4,4,12,0.01,2017
+ambient air,2,3,12,0.01,2022
+fine,5,2,12,0.00,2019
+nanoparticles,6,5,12,0.02,2022
+amyotrophic lateral sclerosis,5,7,12,0.01,2024
+dementia,4,5,11,0.01,2022
+innate immunity,2,0,11,0.01,2015
+aluminum,3,7,11,0.01,2024
+lead exposure,2,7,11,0.00,2025
+microglial activation,4,2,10,0.00,2021
+neurons,2,7,10,0.00,2025
+memory,6,1,10,0.01,2020
+cardiovascular-disease,4,0,10,0.02,2016
+ultrafine particulate matter,6,0,10,0.00,2020
+cannabinoid receptors,2,1,10,0.00,2015
+nf kappa b,4,7,10,0.01,2016
+ozone exposure,4,0,10,0.00,2024
+airborne particulate matter,2,4,10,0.01,2023
+environmental exposure,4,7,10,0.00,2025
+amyloid beta,4,5,10,0.01,2020
+cognitive impairment,5,0,10,0.00,2015
+apolipoprotein e genotype,2,6,10,0.00,2019
+olfactory bulb,2,0,9,0.00,2018
+in vitro,2,5,9,0.00,2025
+cognitive deficits,3,2,9,0.00,2018
+injury,4,1,9,0.01,2020
+adult neurogenesis,2,3,9,0.00,2018
+air particulate matter,1,3,8,0.00,2024
+cell culture,2,8,8,0.00,2016
+corpora-amylacea,1,0,8,0.00,2018
+postnatal exposure,2,7,8,0.00,2020
+brain health,3,7,8,0.00,2017
+pregnancy,3,2,8,0.00,2023
+animal-model,2,6,8,0.00,2019
+als,1,7,8,0.00,2025
+mental health,4,4,8,0.00,2024
+corpora amylacea,1,0,8,0.00,2018
+translocation,3,5,8,0.00,2016
+combustion-derived nanoparticles cdnps,1,0,8,0.00,2018
+alpha synuclein,1,0,8,0.00,2018
+stress,2,1,8,0.00,2025
+bisphenol-a,2,10,8,0.05,2015
+amyloid plaques,1,0,8,0.00,2018
+prefrontal cortex,2,3,8,0.00,2020
+metaanalysis,2,4,8,0.00,2022
+body-weight,1,6,7,0.00,2019
+attention,1,2,7,0.00,2016
+amyloid-beta plaques,1,2,7,0.00,2021
+alzheimers,2,3,7,0.00,2021
+neurological disorders,2,7,7,0.00,2025
+brain damage,4,0,7,0.00,2015
+transport,2,7,7,0.00,2025
+ambient air-pollution,1,0,7,0.00,2022
+neurogenesis,2,8,7,0.00,2019
+dna methylation,2,3,7,0.00,2024
+abnormality,2,4,7,0.00,2019
+signaling pathway,2,1,7,0.00,2025
+brain axis,1,6,7,0.00,2019
+concentrated ambient particles,1,2,7,0.00,2017
+polybrominated diphenyl ethers,2,10,7,0.00,2015
+(2 5),1,0,7,0.00,2022
+2-ag,1,1,7,0.00,2017
+apoe genotype,1,6,7,0.00,2019
+differentiation,2,4,7,0.00,2025
+adverse outcome pathway,2,3,7,0.00,2024
+public health,3,7,7,0.00,2025
+autistic like behavior,1,8,7,0.00,2019
+nitrogen dioxide,2,4,7,0.00,2022
+birth,1,8,7,0.00,2019
+cohort studies,3,4,7,0.02,2017
+iron-oxide nanoparticles,2,0,6,0.00,2020
+airborne staphylococcus aureus,1,1,6,0.00,2025
+associations,1,3,6,0.00,2023
+ambient particulate matter,1,5,6,0.00,2016
+bace1,1,4,6,0.00,2017
+attention deficit hyperactivity disorder,1,2,6,0.00,2017
+serotonin,2,2,6,0.00,2024
+accumulation,1,1,6,0.00,2025
+beta-secretase,1,4,6,0.00,2017
+hippocampus,2,2,6,0.00,2020
+disorders,2,4,6,0.00,2024
+engine exhaust,2,0,6,0.00,2017
+autistic spectrum disorders,1,2,6,0.00,2017
+bbb disruption,2,2,6,0.01,2016
+ambient particle matter,1,2,6,0.00,2020
+and emotional disturbances,1,2,6,0.00,2017
+adverse birth outcomes,1,3,6,0.00,2024
+ultrafine particles (ufp),2,0,6,0.00,2022
+amyloid beta peptide,2,7,6,0.00,2016
+in-vitro,2,0,6,0.01,2018
+antioxidant enzymes,1,2,6,0.00,2021
+bisphenol a exposure,1,2,6,0.00,2017
+responses,2,1,6,0.00,2023
+brain mri,1,0,5,0.00,2015
+autoreactive t-cells,1,0,5,0.00,2015
+stroke,2,2,5,0.00,2021
+atherosclerosis,1,8,5,0.00,2022
+astrocytic reactivity,1,8,5,0.00,2022
+arsenic exposure,1,2,5,0.00,2020
+anxiety-like behavior,1,4,5,0.00,2024
+lung inflammation,2,1,5,0.00,2024
+reactive oxygen species,2,3,5,0.00,2023
+aspirin-triggered resolvin d1,1,1,5,0.00,2024
+brominated flame retardants,1,10,5,0.00,2015
+carcinogenicity,1,5,5,0.00,2016
+particulate matter pm2.5,2,1,5,0.00,2024
+adult-onset disease,1,10,5,0.00,2015
+nadph oxidase,2,9,5,0.00,2021
+brain tumour,1,5,5,0.00,2016
+brain cortex,1,9,5,0.00,2021
+adult,1,4,5,0.00,2022
+auditory deficits,1,0,5,0.00,2015
+5-ht1a receptors,1,3,5,0.00,2020
+changes following exposure,1,10,5,0.00,2015
+cognitive-development,1,2,5,0.00,2019
+cumulative lead-exposure,1,10,5,0.00,2015
+agriculture dust,1,1,5,0.00,2024
+antioxidant systems,1,9,5,0.00,2021
+tnf alpha,2,8,5,0.00,2016
+axis,1,3,5,0.00,2021
+air pollutant,1,0,5,0.00,2021
+cancer incidence,1,5,5,0.00,2016
+aromatic-hydrocarbons,1,0,5,0.00,2022
+atypical activation,1,2,5,0.00,2017
+oxide nanoparticles,2,4,5,0.00,2020
+lipid-peroxidation,2,0,5,0.00,2024
+cerebrospinal-fluid,1,0,5,0.00,2015
+receptor 4,2,1,5,0.00,2024
+cigarette smoking,1,4,5,0.00,2017
+amyloid plaque,2,5,5,0.00,2023
+air,1,1,5,0.00,2023
+acute exposure,1,9,5,0.00,2021
+brain barrier,1,5,5,0.00,2016
+cognitive decline,2,5,5,0.00,2018
+particulate matter exposure,2,5,5,0.00,2021
+acute phase proteins,1,3,4,0.00,2020
+damage,2,3,4,0.00,2024
+alzheimer?s disease risk genes,1,3,4,0.00,2022
+adult hippocampal neurogenesis,1,4,4,0.00,2025
+2nd-generation biodiesel,1,7,4,0.00,2020
+pm2 5,4,4,4,0.00,2021
+aryl hydrocarbon receptor,1,5,4,0.00,2019
+amyloid precursor protein (app),1,4,4,0.00,2025
+atrial-fibrillation,1,3,4,0.00,2022
+allergic sensitization,1,1,4,0.00,2025
+c6 glioma-cells,1,6,4,0.00,2018
+angiotensin converting enzyme,1,0,4,0.00,2020
+5-stroke warning system,1,3,4,0.00,2022
+astrocyte derived exosm,1,0,4,0.00,2022
+complex-i,1,6,4,0.00,2019
+acute ischemic stroke,1,3,4,0.00,2023
+capacity,1,2,4,0.00,2015
+airway inflammation,1,1,4,0.00,2021
+neurodevelopmental disorder,2,2,4,0.00,2017
+anxiety like behavior,1,1,4,0.00,2020
+antidepressants,1,3,4,0.00,2020
+air-pollution exposure,1,0,4,0.00,2016
+coconut oil,1,6,4,0.00,2019
+childhood poverty,1,2,4,0.00,2015
+ampa receptors,1,6,4,0.00,2015
+amorphous silica,1,8,4,0.00,2019
+abnormal-behavior,1,2,4,0.00,2018
+mice,2,5,4,0.00,2022
+mexico city,2,0,4,0.00,2016
+abca7,1,3,4,0.00,2022
+autism-like behavior,1,4,4,0.00,2019
+behavioral-development,1,1,4,0.00,2023
+dependent protein kinase,1,6,4,0.00,2015
+acute-phase proteins,1,6,4,0.00,2017
+body-mass index,1,7,4,0.00,2016
+endothelial cells,2,6,4,0.00,2021
+behavioral assessment,1,2,4,0.00,2018
+toll like receptors,2,6,4,0.00,2024
+synaptic function,2,1,4,0.00,2025
+anesthesia,1,4,4,0.00,2025
+pathway,2,8,4,0.00,2022
+c activity,1,6,4,0.00,2015
+insulin resistance,2,4,4,0.00,2025
+alternaria,1,3,4,0.00,2018
+cardiovascular disease,1,6,4,0.00,2019
+cerium oxide nanoparticles,1,0,4,0.00,2016
+innate immune response,2,8,4,0.00,2017
+autophagy,1,5,4,0.00,2019
+apolipoprotein e,1,7,4,0.00,2016
+acute phase response,1,6,4,0.00,2017
+3d microfluidic chip,1,8,4,0.00,2020
+activity-regulated cytoskeletal gene (arc),1,6,4,0.00,2015
+brain magnetite/maghemite,1,0,4,0.00,2019
+antioxidant response,1,6,4,0.00,2018
+asthma,1,3,4,0.00,2018
+autism spectrum disorder (asd),1,2,4,0.00,2023
+neurodegenerative disease,2,0,3,0.00,2017
+2003 heat wave,1,4,3,0.00,2025
+atmospheric fine particles,1,3,3,0.00,2024
+induced lung injury,2,2,3,0.00,2023
+gene-expression,2,1,3,0.00,2024
+anion transporting polypeptides,1,10,3,0.00,2015
+endoplasmic reticulum stress,2,1,3,0.00,2020
+heavy metals,5,7,3,0.00,2021
+cox-2,1,1,3,0.00,2018
+gut-brain axis,2,2,3,0.00,2025
+brain barrier disruption,1,5,3,0.00,2019
+anti-inflammatory agents,1,3,3,0.00,2023
+amyotrophic-lateral-sclerosis,1,0,3,0.00,2020
+bias,1,5,3,0.00,2018
+base line,1,5,3,0.00,2023
+admet-oriented risk evaluation,1,3,3,0.00,2024
+carbon-monoxide,1,5,3,0.00,2019
+nlrp3 inflammasome activation,2,3,3,0.00,2023
+biloba,1,5,3,0.00,2023
+pm10,2,4,3,0.00,2020
+alzheimers disease and dementia,1,1,3,0.00,2020
+childrens brain development,1,9,3,0.00,2016
+5 ),1,3,3,0.00,2023
+airborne nanoparticles (pm01),1,8,3,0.00,2016
+blood flow,1,5,3,0.00,2021
+aerosol,1,3,3,0.00,2024
+childrens health,1,2,3,0.00,2017
+transition metals,2,0,3,0.00,2019
+cyclooxygenase-2 (cox-2),1,6,3,0.00,2015
+beclin 1,1,0,3,0.00,2018
+autophagic cell death,1,8,3,0.00,2016
+astrocyte endothelial interactions,1,10,3,0.00,2015
+animal-models,1,2,3,0.00,2021
+climate change,3,4,3,0.01,2024
+7,1,9,3,0.00,2020
+cores,1,6,3,0.00,2019
+beta,1,3,3,0.00,2022
+environmental toxins,2,9,3,0.00,2024
+involvement,2,8,2,0.00,2019
+environmental pollutants,2,4,2,0.01,2025
+axon guidance,1,1,2,0.00,2024
+alpha,1,7,2,0.00,2025
+antibody,1,1,2,0.00,2025
+corpus callosum,1,1,2,0.00,2017
+lipid peroxidation,2,1,2,0.00,2025
+impairment,2,7,2,0.00,2021
+air pollution nanoparticles,1,1,2,0.00,2023
+global warming,2,7,2,0.00,2024
+autosomal-dominant arteriopathy,1,0,2,0.00,2021
+environmental pollution,2,9,2,0.00,2024
+apoptotic neurons,1,3,2,0.00,2017
+circulating oxidized ldl,1,0,2,0.00,2018
+anxiety behavior,1,3,2,0.00,2025
+pollution,5,5,2,0.00,2024
+adhesion molecules,1,4,2,0.00,2020
+nose,2,8,2,0.00,2020
+chemicals,1,1,2,0.00,2018
+aggregation,1,5,2,0.00,2021
+amyloid beta protein,1,6,2,0.00,2023
+a beta 42 deposition,1,4,2,0.00,2017
+air pollutant exposure,1,11,1,0.00,2022
+5-lox/ltb4 pathway,1,12,1,0.00,2025
+bioactive compounds,1,7,1,0.00,2022
+5 lipoxygenase,1,12,1,0.00,2025
+adverse outcome pathways,1,1,1,0.00,2020
+alters,1,1,1,0.00,2025
+tight junction proteins,2,2,1,0.00,2016
+accelerated aging,1,13,1,0.00,2023
+biological age,1,13,1,0.00,2023
+amyloid-beta aggregation,1,4,1,0.00,2025
+atmospheric particulate matter,1,1,1,0.00,2023
+age-related macular degeneration,1,11,1,0.00,2022
+activated microglia,1,1,1,0.00,2025
+matter air pollution,2,0,1,0.00,2016
+autistic spectrum disorder,1,1,1,0.00,2024
+atmospheric pollution,1,1,1,0.00,2018
+child brain development,1,14,0,0.00,2016
+brain development,1,15,0,0.00,2017
+age-related brain pathologies,1,16,0,0.00,2020
+amyloid-β plaques,1,17,0,0.00,2020
+antioxidant,1,18,0,0.00,2024
+antioxidant indexes,1,19,0,0.00,2022
+alveolar macrophages,1,20,0,0.00,2020
+cough sensitivity,1,21,0,0.00,2018
+cognition and mood effects,1,22,0,0.00,2015
+brain histology,1,23,0,0.00,2021

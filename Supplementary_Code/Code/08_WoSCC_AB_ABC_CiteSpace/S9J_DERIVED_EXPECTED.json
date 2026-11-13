@@ -1,0 +1,18 @@
+{
+  "AB_nodes": 394,
+  "ABC_nodes": 342,
+  "AB_graphml_edges": 2040,
+  "ABC_graphml_edges": 1620,
+  "shared_labels": 266,
+  "AB_only": 128,
+  "ABC_only": 76,
+  "node_jaccard": 0.5659574468085107,
+  "AB_edges_within_shared_nodes": 1398,
+  "ABC_edges_within_shared_nodes": 1292,
+  "shared_edges": 876,
+  "edge_jaccard": 0.4829106945975744,
+  "ari": 0.15319575485437534,
+  "nmi": 0.31950383560322515,
+  "AB_cluster_ids": 12,
+  "ABC_cluster_ids": 14
+}

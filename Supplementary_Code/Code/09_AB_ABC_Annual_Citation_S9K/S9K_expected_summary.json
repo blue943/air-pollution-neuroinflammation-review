@@ -1,0 +1,22 @@
+{
+  "WoSCC": {
+    "AB_records": 519,
+    "ABC_records": 318,
+    "AB_original_records": 526,
+    "ABC_original_records": 321,
+    "ABC_subset_AB": true,
+    "Pearson_annual_r": 0.952462,
+    "Top10_overlap": 8,
+    "Top20_overlap": 14
+  },
+  "Scopus": {
+    "AB_records": 711,
+    "ABC_records": 420,
+    "AB_original_records": 711,
+    "ABC_original_records": 420,
+    "ABC_subset_AB": true,
+    "Pearson_annual_r": 0.979718,
+    "Top10_overlap": 7,
+    "Top20_overlap": 14
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "first_pass_pairs": 217,
+  "doi_strings_identical": 215,
+  "doi_string_variant_pairs": 2,
+  "nonmatching_publication_year_pairs": 1,
+  "scopus_duplicates_absent_from_548": 217,
+  "wos_counterparts_present_in_548": 217,
+  "wos_counterparts_present_in_final_540": 216,
+  "wos_counterparts_removed_at_later_QC": 1,
+  "later_removals": 8,
+  "removed_between_548_and_541": 7,
+  "removed_between_541_and_540": 1,
+  "removal_reason_counts": {
+    "Residual cross-database duplicate": 1,
+    "Non-English publication": 2,
+    "Retracted publication": 1,
+    "Out of period: PY=2026": 4
+  },
+  "data_sharing_scope": "Only record IDs and matching/removal indicators, not full licensed bibliographic exports",
+  "source": "Internal 2026-11-01 crosswalk; author authorized sharing 2026-11-02",
+  "classification_approval": "The author-approved 374-member topical selection is a separate decision; do not infer pairwise author approval from it",
+  "historical_run_timestamp_verified": false
+}

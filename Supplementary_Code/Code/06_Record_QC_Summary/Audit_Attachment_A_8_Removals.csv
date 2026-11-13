@@ -1,0 +1,9 @@
+﻿Stage,Reason,Removed_UT,Retained_Counterpart_UT,Present_in_548,Present_in_Frozen540,Claim_Level
+541_to_540,Residual cross-database duplicate,SCOPUS:2-s2.0-85040981332,WOS:000422811200001,YES,NO,Record-identity corroborated; original run timestamp not verified
+548_to_541,Non-English publication,WOS:000708072700003,,YES,NO,Record-identity corroborated; original run timestamp not verified
+548_to_541,Retracted publication,WOS:000778926500014,,YES,NO,Record-identity corroborated; original run timestamp not verified
+548_to_541,Non-English publication,WOS:001396763000008,,YES,NO,Record-identity corroborated; original run timestamp not verified
+548_to_541,Out of period: PY=2026,WOS:001561436400001,,YES,NO,Record-identity corroborated; original run timestamp not verified
+548_to_541,Out of period: PY=2026,WOS:001568360300001,,YES,NO,Record-identity corroborated; original run timestamp not verified
+548_to_541,Out of period: PY=2026,WOS:001622679200001,,YES,NO,Record-identity corroborated; original run timestamp not verified
+548_to_541,Out of period: PY=2026,WOS:001631605800001,,YES,NO,Record-identity corroborated; original run timestamp not verified

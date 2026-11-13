@@ -1,0 +1,343 @@
+Label,Freq,ClusterID
+alzheimers disease,57,1
+air-pollution,34,1
+diesel exhaust particles,31,0
+particles,25,8
+blood brain barrier,35,3
+alzheimers-disease,23,0
+particulate matter,115,0
+activation,35,2
+disease,27,5
+neuroinflammation,60,2
+children,16,8
+expression,35,2
+alpha-synuclein,11,0
+autism spectrum disorder,17,6
+air pollution exposure,18,2
+brain,52,2
+inflammation,37,5
+pm2.5,17,2
+air pollution,134,0
+risk,17,1
+health,12,2
+blood-brain barrier,18,5
+central nervous system,11,1
+parkinsons disease,15,3
+ultrafine particles,21,3
+diesel exhaust,12,8
+nf kappa b,10,9
+oxidative stress,186,0
+association,11,5
+neurotoxicity,18,5
+prenatal exposure,11,6
+ambient pm2.5,6,1
+microglia,21,2
+amyloid-beta,5,0
+blood-brain-barrier,7,0
+apoptosis,6,1
+long term exposure,8,7
+pm2.5 exposure,9,7
+fine particulate matter,15,7
+exposure,54,8
+air pollutants,4,9
+anxiety,9,4
+neurodegenerative diseases,7,0
+dysfunction,10,8
+ambient air pollution,12,5
+mitochondrial dysfunction,11,4
+age,5,2
+multiple-sclerosis,7,0
+depression,6,2
+toxicity,7,8
+nlrp3 inflammasome,6,7
+amyloid precursor protein,4,7
+parkinsons-disease,14,0
+cells,11,1
+mechanisms,9,7
+autism,4,6
+astrocytes,5,5
+aged mice,3,2
+neurodevelopmental disorders,5,6
+polycyclic aromatic hydrocarbons,11,3
+black carbon,5,7
+gene-expression,6,6
+ambient,3,8
+amyloid beta,5,4
+in-vivo,5,1
+brain inflammation,3,0
+dementia,6,4
+cognitive function,7,7
+fine,5,1
+nanoparticles,5,8
+prevalence,4,4
+multiple sclerosis,7,7
+mouse model,7,6
+pollutants,4,8
+ambient air,2,2
+ozone exposure,5,0
+central-nervous-system,3,0
+mortality,7,2
+responses,5,3
+microglial activation,6,6
+hospital admissions,4,7
+translocation,5,8
+cerebrospinal fluid,2,0
+injury,4,9
+environmental exposure,3,4
+pollution,7,9
+endothelial-cells,4,0
+behavior,4,2
+atherosclerosis,2,7
+adult neurogenesis,2,2
+stress,2,4
+airborne particulate matter,2,2
+impact,6,8
+apolipoprotein e genotype,2,1
+neurodegenerative disease,2,0
+air particulate matter,2,2
+biomarkers,2,1
+silver nanoparticles,4,0
+neurogenesis,2,1
+ambient particulate matter,2,0
+cardiovascular-disease,4,1
+innate immunity,2,0
+cognitive deficits,3,6
+alpha synuclein,2,0
+protein,4,9
+olfactory bulb,2,0
+alzheimers disease (ad),2,8
+amyloid-beta plaques,1,1
+neurons,4,4
+transport,2,4
+microplastics,2,6
+alpha,3,5
+ultrafine particulate matter,4,0
+signaling pathway,4,4
+prefrontal cortex,2,7
+public health,2,8
+amyotrophic lateral sclerosis,3,0
+body-weight,1,1
+damage,2,3
+pregnancy,3,2
+receptor,2,4
+animal-model,1,1
+als,1,4
+bace1,1,7
+dna methylation,2,0
+attention deficit hyperactivity disorder,1,6
+nf-kappa b,2,7
+abnormality,2,1
+particulate matter pm2.5,2,2
+accumulation,2,6
+beta-secretase,1,7
+nf-kappa-b,2,0
+autistic spectrum disorders,1,6
+brain axis,1,1
+and emotional disturbances,1,6
+cellular prion protein,1,0
+apoe genotype,1,1
+lead exposure,2,4
+systemic inflammation,3,0
+aromatic-hydrocarbons,1,0
+adverse outcome pathway,1,3
+induced oxidative stress,2,0
+cognitive impairment,4,0
+bisphenol a exposure,1,6
+autistic like behavior,1,1
+birth,1,1
+particulate matter exposure,2,0
+brain mri,1,0
+attention,1,2
+astrocytic reactivity,1,1
+brain damage,1,0
+airborne staphylococcus aureus,1,4
+memory,6,4
+insoluble iridium particles,2,9
+associations,1,1
+reactive oxygen species,2,8
+air-pollution exposure,2,1
+hippocampus,2,2
+disorders,2,2
+mice,3,4
+adult,1,2
+ambient particle matter,1,2
+sulfur dioxide,2,5
+auditory deficits,1,0
+acute-phase proteins,1,1
+body-mass index,1,9
+endothelial cells,5,5
+adverse birth outcomes,1,7
+ultrafine particles (ufp),2,0
+amyloid beta peptide,1,9
+2-ag,1,5
+pathway,4,9
+antioxidant enzymes,1,6
+air pollutant,1,0
+amyloid plaque,2,8
+apolipoprotein e,1,9
+amyloid plaques,1,0
+acute phase response,1,1
+acute phase proteins,1,7
+autoreactive t-cells,1,0
+abc efflux transporters,1,5
+alzheimers,2,7
+c6 glioma-cells,1,0
+angiotensin converting enzyme,1,3
+ambient air-pollution,1,0
+anxiety-like behavior,1,2
+autism spectrum disorders,1,0
+astrocyte derived exosm,1,0
+binding cassette transporters,1,5
+anxiety like behavior,1,8
+antidepressants,1,7
+dopaminergic-neurons,2,9
+carcinogenicity,1,8
+prenatal air-pollution,2,6
+serotonin,2,6
+brain tumour,1,8
+barrier,2,3
+abnormal-behavior,1,6
+impairment,4,4
+nervous-system,2,1
+cognitive-development,1,6
+behavioral assessment,1,6
+polybrominated diphenyl ethers,2,3
+(2 5),1,0
+insulin resistance,2,4
+cancer resistance protein,1,5
+tnf alpha,2,5
+susceptibility,2,3
+cancer incidence,1,8
+atypical activation,1,2
+oxide nanoparticles,3,7
+lipid-peroxidation,2,0
+microbiota,2,6
+differentiation,2,4
+amyloid-beta clearance,1,5
+air,1,3
+climate change,2,7
+brain barrier,1,8
+antioxidant response,1,0
+valproic acid,2,8
+metaanalysis,2,2
+cell culture,1,5
+iron-oxide nanoparticles,2,3
+stroke,2,0
+alzheimer?s disease risk genes,1,2
+arsenic exposure,1,5
+2nd-generation biodiesel,1,9
+pm2 5,4,7
+neurological disorders,2,4
+aryl hydrocarbon receptor,1,8
+atrial-fibrillation,1,2
+allergic sensitization,1,4
+5-stroke warning system,1,2
+acute ischemic stroke,1,5
+brominated flame retardants,1,3
+coconut oil,1,1
+adult-onset disease,1,3
+amorphous silica,1,5
+atmospheric pm2.5,1,9
+abca7,1,2
+autism-like behavior,1,1
+5 ),1,2
+inhibition,2,2
+aluminium chloride,1,4
+5-ht1a receptors,1,3
+activated protein-kinase,1,0
+alzheimer?s disease,1,4
+titanium dioxide nanoparticles,2,3
+toll like receptors,2,0
+transition metals,2,0
+in-vitro,2,5
+aluminum,2,6
+alternaria,1,2
+cardiovascular disease,1,1
+beclin 1,1,5
+bisphenol-a,1,3
+cerium oxide nanoparticles,1,1
+autophagy,1,8
+aspartate transporter,1,5
+3d microfluidic chip,1,5
+brain magnetite/maghemite,1,3
+asthma,1,2
+a beta 42 deposition,1,1
+2003 heat wave,1,2
+atmospheric fine particles,1,2
+adult hippocampal neurogenesis,1,4
+brain health,1,2
+anion transporting polypeptides,1,3
+endoplasmic reticulum stress,2,4
+blood vessels,1,3
+gut-brain axis,2,6
+brain barrier disruption,1,8
+anthocyanins,1,2
+capacity,1,5
+airway inflammation,1,7
+neurodevelopmental disorder,2,7
+bias,1,6
+admet-oriented risk evaluation,1,2
+carbon-monoxide,1,8
+inflammatory response,2,1
+adrenergic receptor antagonist,1,3
+lipid peroxidation,2,4
+pm10,2,7
+engine exhaust,2,0
+ampa receptors,1,1
+model,3,9
+lung,2,3
+airborne nanoparticles (pm01),1,1
+alveolar macrophages,1,7
+aerosol,1,2
+synaptic function,2,4
+brown norway rats,1,3
+c activity,1,1
+antioxidant systems,1,3
+cardiovascular system,1,3
+activated protein kinase,1,7
+autophagic cell death,1,1
+astrocyte endothelial interactions,1,3
+animal-models,1,6
+ambient levels,1,0
+nose,2,5
+acute exposure,1,3
+activity-regulated cytoskeletal gene (arc),1,1
+chemicals,1,6
+7,1,3
+neurotrophic factor,2,1
+phosphorylation,2,1
+cognitive decline,1,8
+aggregation,1,8
+bisphenol-a exposure,1,6
+aircraft,1,4
+induced lung injury,2,3
+adverse outcome pathways,1,3
+involvement,2,5
+4-hydroxyalkenals,1,9
+anti-inflammatory agents,1,7
+11 european cohorts,1,2
+activates trpm2,1,5
+cannabinoid receptors,1,1
+adp-ribose,1,5
+alzheimers disease and dementia,1,4
+air pollution nanoparticles,1,4
+rats,2,1
+apoptotic neurons,1,6
+activated microglia,1,9
+adipose-tissue,1,6
+matter air pollution,2,1
+innate immune response,2,2
+adhesion molecules,1,7
+atmospheric pollution,1,5
+induction,2,9
+alpha synuclein clearance,1,1
+5-lox/ltb4 pathway,1,10
+5 lipoxygenase,1,10
+amyotrophic-lateral-sclerosis,1,3
+acetyl cysteine,1,2
+brain astrocytes,1,0
+black cumin seed,1,0
+antibacterial activity,1,11
+apolipoprotein a i,1,11
+antioxidant,1,12
+brain-injury,1,13

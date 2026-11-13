@@ -1,0 +1,30 @@
+{
+  "evidence_type": "derived, privacy-minimized run-evidence index (NOT an unmodified native .parameters file)",
+  "target": "WoSCC–Scopus 374-record topic-focused sensitivity keyword clustering, not PubMed",
+  "final_figure": "Supplementary Figure S4, author-supplied CiteSpace screenshot",
+  "final_time_span_shown_in_figure": "2015–2025",
+  "numeric_year_fields_in_uploaded_signature": {
+    "begin_year": 2015,
+    "end_year": 2025
+  },
+  "software_version_shown_in_final_figure": "CiteSpace v6.4.R1 (64-bit) Advanced",
+  "figure_selection": "g-index (k=25), LRF=2.5, L/N=10, LBY=5, e=1.0; annual slices",
+  "gui_results": {
+    "N": 352,
+    "E": 1641,
+    "Q": 0.4331,
+    "weighted_mean_silhouette": 0.7563,
+    "harmonic_mean_QS": 0.5508
+  },
+  "graphml_export": {
+    "N": 352,
+    "E": 1612,
+    "edge_count_is_not_GUI_E": true
+  },
+  "uploaded_config_AliasList": true,
+  "alias_bytes_match_existing_public_alias_SHA256": "e37ab9e13b29703291b4ce2f65bb0d768825db8b725a045781aa600316d6bee6",
+  "node_summary": "352 source rows agree exactly with prior public Focused374 cluster table on Label/Freq/ClusterID",
+  "archived_parameter_capture_difference": "source .parameters and signature beginTime/endTime strings show 2016–2026, despite figure and signature numeric years showing 2015–2025; excluded from this public release; not silently corrected",
+  "GUI_re_run": "not independently performed here",
+  "comment": "The figure reports GUI E and Q/S; GraphML supports node/edge identity checks but is not used to recompute these GUI values."
+}

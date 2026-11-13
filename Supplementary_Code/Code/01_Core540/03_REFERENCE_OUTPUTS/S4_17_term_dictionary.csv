@@ -1,0 +1,18 @@
+﻿Term,Regex (ignore case),Matching rule,Fields
+Neuroinflammation,\bneuroinflammat\w*,Stem match,TI + AB + DE + ID
+Microglia,\bmicroglia\w*,Stem match,TI + AB + DE + ID
+Cytokines,\bcytokines?\b,Singular/plural,TI + AB + DE + ID
+IL-1β,\b(?:il|interleukin)[\s-]?1[\s-]?(?:β|beta)\b,Includes IL-1 beta/interleukin-1 beta; not bare IL1b,TI + AB + DE + ID
+IL-6,\b(?:il[\s-]?6|interleukin[\s-]?6)\b,Abbreviation/full name,TI + AB + DE + ID
+TNF-α,\b(?:tnf[\s-]?(?:α|alpha|a)|tumou?r necrosis factor[\s-]?(?:α|alpha|a))\b,Includes TNF-a and TNF-alpha,TI + AB + DE + ID
+TLR4,\b(?:tlr[\s-]?4|toll.like receptor[\s-]?4)\b,Abbreviation/full name,TI + AB + DE + ID
+NF-κB,\b(?:nf[\s-]?(?:κb|kb|kappa[\s-]?b)|nuclear factor[\s-]?kappa[\s-]?b)\b,Selected lexical variants,TI + AB + DE + ID
+NLRP3,\b(?:nlrp3(?:[\s-]+inflammasome)?|nalp3(?:[\s-]+inflammasome)?)\b,Any NLRP3 mention; does not require inflammasome,TI + AB + DE + ID
+Oxidative stress,\boxidative[\s-]+stress\b,Phrase match,TI + AB + DE + ID
+Mitochondrial dysfunction,\bmitochondrial[\s-]+dysfunction\b,Phrase match,TI + AB + DE + ID
+Blood–brain barrier,\b(?:blood[\s\-–—‑−]+brain[\s\-–—‑−]+barrier|bbb)\b,Includes unicode dash variants and BBB,TI + AB + DE + ID
+Autophagy,\bautophag\w*,Stem match,TI + AB + DE + ID
+Mitophagy,\bmitophag\w*,Stem match,TI + AB + DE + ID
+Ferroptosis,\bferroptos\w*,Stem match,TI + AB + DE + ID
+α-synuclein,\b(?:α[\s-]?synuclein|alpha[\s-]?synuclein)\b,Greek/Latin alphabet variant,TI + AB + DE + ID
+Dopaminergic neuron,\bdopaminergic[\s-]+neurons?\b,Singular/plural,TI + AB + DE + ID

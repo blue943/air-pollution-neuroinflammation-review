@@ -1,0 +1,3 @@
+# 374-member subset status
+
+The study authors confirmed the 374-member topic-focused classification on 2 November 2026 (A=175; B=199; 166 not included in the focused subset). The internal 1 November reconstruction records carry earlier `PENDING`/`PRELIMINARY` administrative metadata; these are historical states and were deliberately NOT republished. The `verify_focused374.py` script uses only licensed 540 and historical 375 input records to confirm counts, citation totals and Top10/Top20 overlaps after one-record removal. It does not substitute for the author's study-level classification approval and does not calculate GUI network Q/S. Do not distribute generated record-level outputs without database licence checks.

@@ -1,0 +1,13 @@
+# PubMed CiteSpace final analysis — 2015–2025 / PubMed 最终分析证据
+
+**Confirmed final analysis period: 2015–2025.** The author's supplied native CiteSpace **network and timeline figures** both display `TimeSpan: 2015–2025`, with N = 279, GUI E = 550, Q = 0.6225 and weighted mean silhouette S = 0.863. PubMed network and timeline were created in **CiteSpace only**. These are the final numbers reported in manuscript Figure 7B/C and Supplementary Figures S2/S3.
+
+The new uploaded `275(1).graphml` and `279(1).graphml` correspond to an earlier and final PubMed keyword GraphML output respectively, **not** to the 374-record WoSCC–Scopus sensitivity network. This code archive contains privacy-minimized copies preserving graph structure and keyword-only node fields, with source-document placeholder fields discarded. The previous GraphML has N=275/E=538 and the final GraphML N=279/E=546, distinct from GUI-reported N=279/E=550. Their keyword lists share 273 labels; the earlier BBB variants with frequencies 9, 5 and 3 are represented by a single final `blood-brain barrier` node with frequency 17. Run `python 04_CiteSpace_PubMed/validate_pubmed_keyword_graphs.py` to verify these claims.
+
+**Important distinction between final visualization and configuration snapshots.** The newly supplied `.parameters` and `.signature` files contain Windows paths for a **PubMed** project and the former lists `From 2016-JAN` / `To 2026-DEC`; this is not consistent with the final 2015–2025 output. The saved signature additionally contains `begin_year=2021` and `end_year=2026` alongside the other stale string settings. The files are **not** distributed or cited as authoritative parameters for the final analysis. They do not overwrite the final network figures or alter the declared analytical period. The source of this historical mismatch cannot be established from the captured files alone.
+
+The final-figure readouts are output evidence, not proof of a complete GUI re-run from a fully specified, independently reconstructed project configuration. The published targeted alias file has twelve mapping lines, and the `AliasList=true` flag is present in the newly supplied configuration snapshot; that flag alone is not proof that the snapshot captured the final 2015–2025 run. Original PubMed source records, private Windows paths and raw unredacted screenshots are not included.
+
+## 中文
+
+**最终PubMed网络及时间线范围为2015—2025年。** 本次上传的两张原始图均标注该时间范围，报告N=279、软件界面E=550、Q=0.6225、S=0.863。新增的275/279 GraphML属于PubMed，不属于374篇敏感性语料；已加入仅保留关键词及网络关系的脱敏版本。GraphML边数538/546与界面报告连线数不是同一口径。新上传的参数及签名快照含历史/不一致年份与私人路径，不作为最终设置依据，也不据此修改已确认的2015—2025范围。尚未宣称已用完整GUI配置独立重跑。

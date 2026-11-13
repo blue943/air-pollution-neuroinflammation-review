@@ -1,0 +1,15 @@
+# Proposed targeted keyword alias map for Figure 7B/C PubMed 255 only.
+# DRAFT: confirm that the secondary spellings exist in the PubMed source before applying.
+# First column = retained label; second column = original keyword (TAB separated).
+alzheimer’s disease	alzheimer’s disease
+blood-brain barrier	blood-brain barrier
+alzheimer’s disease	alzheimers disease
+blood-brain barrier	blood brain barrier
+blood-brain barrier	blood–brain barrier
+blood-brain barrier	blood-brain barrier (bbb)
+alzheimer’s disease	alzheimer?s disease
+alzheimer’s disease	alzheimers disease (ad)
+alzheimer’s disease	alzheimer s disease
+alzheimer’s disease	alzheimer disease
+blood-brain barrier	blood-brain-barrier
+alzheimer’s disease	alzheimers-disease

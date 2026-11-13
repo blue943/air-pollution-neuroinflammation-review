@@ -1,0 +1,18 @@
+﻿Term,Regex,2015-2017 count,2015-2017 per 100,2018-2020 count,2018-2020 per 100,2021-2023 count,2021-2023 per 100,2024-2025 count,2024-2025 per 100
+Neuroinflammation,\bneuroinflammat\w*,45,59.21,54,46.15,100,54.05,100,61.73
+Microglia,\bmicroglia\w*,27,35.53,38,32.48,70,37.84,52,32.1
+Cytokines,\bcytokines?\b,29,38.16,20,17.09,36,19.46,28,17.28
+IL-1β,\b(?:il|interleukin)[\s-]?1[\s-]?(?:β|beta)\b,7,9.21,12,10.26,23,12.43,12,7.41
+IL-6,\b(?:il[\s-]?6|interleukin[\s-]?6)\b,13,17.11,11,9.4,11,5.95,9,5.56
+TNF-α,\b(?:tnf[\s-]?(?:α|alpha|a)|tumou?r necrosis factor[\s-]?(?:α|alpha|a))\b,16,21.05,14,11.97,23,12.43,16,9.88
+TLR4,\b(?:tlr[\s-]?4|toll.like receptor[\s-]?4)\b,3,3.95,2,1.71,6,3.24,9,5.56
+NF-κB,\b(?:nf[\s-]?(?:κb|kb|kappa[\s-]?b)|nuclear factor[\s-]?kappa[\s-]?b)\b,11,14.47,19,16.24,18,9.73,12,7.41
+NLRP3,\b(?:nlrp3(?:[\s-]+inflammasome)?|nalp3(?:[\s-]+inflammasome)?)\b,0,0.0,7,5.98,18,9.73,11,6.79
+Oxidative stress,\boxidative[\s-]+stress\b,48,63.16,75,64.1,107,57.84,118,72.84
+Mitochondrial dysfunction,\bmitochondrial[\s-]+dysfunction\b,2,2.63,9,7.69,20,10.81,16,9.88
+Blood–brain barrier,\b(?:blood[\s\-–—‑−]+brain[\s\-–—‑−]+barrier|bbb)\b,20,26.32,28,23.93,41,22.16,49,30.25
+Autophagy,\bautophag\w*,2,2.63,8,6.84,10,5.41,13,8.02
+Mitophagy,\bmitophag\w*,0,0.0,0,0.0,1,0.54,3,1.85
+Ferroptosis,\bferroptos\w*,0,0.0,0,0.0,2,1.08,8,4.94
+α-synuclein,\b(?:α[\s-]?synuclein|alpha[\s-]?synuclein)\b,3,3.95,3,2.56,9,4.86,7,4.32
+Dopaminergic neuron,\bdopaminergic[\s-]+neurons?\b,3,3.95,2,1.71,2,1.08,3,1.85
